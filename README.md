@@ -11,5 +11,5 @@
 ![Screenshot 2024-07-10 122203](https://github.com/moturiadithyasai/BLOGAPPLICATION-frontend-/assets/150378325/dded03a7-0ff4-4877-a84b-e2f27fb74ea8)
 6)User can comment on that post as well
 ![Screenshot 2024-07-10 122604](https://github.com/moturiadithyasai/BLOGAPPLICATION-frontend-/assets/150378325/0bbda9f2-50b3-4562-9add-4af9f74a13cc)
-7)User can search the post
+7)User can search for the post
 ![Screenshot 2024-07-10 122343](https://github.com/moturiadithyasai/BLOGAPPLICATION-frontend-/assets/150378325/a3709966-d54b-4649-a2d0-3bd759c0d8f6)
