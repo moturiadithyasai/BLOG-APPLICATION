@@ -9,13 +9,10 @@
 
 4)User can create post 
 ![Screenshot 2024-07-10 122301](https://github.com/moturiadithyasai/BLOGAPPLICATION-frontend-/assets/150378325/21432aed-df8b-4853-8354-fd43e06deb26)
-![Screenshot 2024-07-10 121242](https://github.com/moturiadithyasai/BLOGAPPLICATION-frontend-/assets/150378325/0c9e2041-254b-4764-8ede-1c12a77d41ea)
+![Screenshot (34)](https://github.com/user-attachments/assets/dc42b6fe-9530-4a85-8b96-674f039e4ae0)
 
 5)After Creation of blogs it gets updated to home page
-![Screenshot 2024-07-10 122203](https://github.com/moturiadithyasai/BLOGAPPLICATION-frontend-/assets/150378325/dded03a7-0ff4-4877-a84b-e2f27fb74ea8)
+![Screenshot (35)](https://github.com/user-attachments/assets/0b950f92-0f63-4438-b3fc-e1b8fcfede85)
 
-6)User can comment on that post as well
-![Screenshot 2024-07-10 122604](https://github.com/moturiadithyasai/BLOGAPPLICATION-frontend-/assets/150378325/0bbda9f2-50b3-4562-9add-4af9f74a13cc)
-
-7)User can search for the post
-![Screenshot 2024-07-10 122343](https://github.com/moturiadithyasai/BLOGAPPLICATION-frontend-/assets/150378325/a3709966-d54b-4649-a2d0-3bd759c0d8f6)
+6)User can search for the post
+![Screenshot (36)](https://github.com/user-attachments/assets/cabad217-7029-4b21-a6fc-611b0f2553cd)
